@@ -1,0 +1,10 @@
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\bin\Debug\Data\Project1.mpp
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\bin\Debug\AsposeTasks.exe
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\bin\Debug\AsposeTasks.pdb
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\bin\Debug\Aspose.Tasks.dll
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\bin\Debug\Aspose.Tasks.xml
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\obj\Debug\AsposeTasks.csprojAssemblyReference.cache
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\obj\Debug\AsposeTasks.csproj.CoreCompileInputs.cache
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\obj\Debug\AsposeTasks.csproj.CopyComplete
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\obj\Debug\AsposeTasks.exe
+C:\Users\VZarubin\RiderProjects\AsposeTasks\AsposeTasks\obj\Debug\AsposeTasks.pdb
